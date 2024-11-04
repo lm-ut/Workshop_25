@@ -38,7 +38,7 @@ with open (args.name+".sh","w") as o:
     ### Output name will be called prefix_maf
     o.write("#MAF \n")
     maf_output_name = args.input_file+'_maf'+args.maf
-    o.write("plink --bfile "+args.input_file+" --maf "+args.maf+" --out "+maf_output_name+'\n')    
+    o.write("plink --bfile "+args.input_file+" --maf "+args.maf+" --make-bed --out "+maf_output_name+'\n')    
     o.write("\n")
 
 
@@ -60,6 +60,8 @@ with open (args.name+".sh","w") as o:
         "snpoutname: "+prune_output_name+".snp \n"+
         "indivoutname: "+prune_output_name+".ind \n"+
         "familynames: YES' > convertf_"+prune_output_name+".par")
+    o.write("\n")
+    o.write("convertf -p convertf_"+prune_output_name+".par \n")
     o.write("\n")
 
     o.write("\n")
