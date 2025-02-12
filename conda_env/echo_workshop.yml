@@ -29,11 +29,11 @@ dependencies:
   - bwidget=1.9.16=h9eba36c_0
   - bzip2=1.0.8=h5eee18b_6
   - c-ares=1.19.1=h5eee18b_0
-  - ca-certificates=2024.12.31=h06a4308_0
+  - ca-certificates=2025.1.31=hbcca054_0
   - cairo=1.16.0=hb05425b_5
   - cffi=1.17.1=py39h1fdaa30_1
   - comm=0.2.1=py39h06a4308_0
-  - curl=7.88.1=h37d81fd_2
+  - curl=7.88.1=hdc1c0ab_1
   - dbus=1.13.18=hb2f20db_0
   - debugpy=1.8.11=py39h6a678d5_0
   - decorator=5.1.1=pyhd3eb1b0_0
@@ -80,12 +80,13 @@ dependencies:
   - jupyter_server_terminals=0.4.4=py39h06a4308_1
   - jupyterlab_pygments=0.2.2=py39h06a4308_0
   - kernel-headers_linux-64=3.10.0=h57e8cba_10
-  - krb5=1.20.1=h568e23c_1
+  - keyutils=1.6.1=h166bdaf_0
+  - krb5=1.20.1=h81ceb04_0
   - ld_impl_linux-64=2.40=h12ee557_0
   - lerc=4.0.0=h6a678d5_0
   - libasprintf=0.22.5=he8f35ee_3
   - libasprintf-devel=0.22.5=he8f35ee_3
-  - libcurl=7.88.1=h91b91d3_2
+  - libcurl=7.88.1=hdc1c0ab_1
   - libdeflate=1.22=h5eee18b_0
   - libedit=3.1.20230828=h5eee18b_0
   - libev=4.33=h7f8727e_1
@@ -102,11 +103,11 @@ dependencies:
   - libgomp=14.2.0=h77fa898_1
   - libiconv=1.17=hd590300_2
   - libmpdec=4.0.0=h5eee18b_0
-  - libnghttp2=1.52.0=ha637b67_1
+  - libnghttp2=1.52.0=h61bc06f_0
   - libopenblas=0.3.28=pthreads_h94d23a6_0
   - libpng=1.6.39=h5eee18b_0
   - libsodium=1.0.18=h7b6447c_0
-  - libssh2=1.10.0=h37d81fd_2
+  - libssh2=1.11.0=h0841786_0
   - libstdcxx=14.2.0=hc0a3c3a_1
   - libstdcxx-devel_linux-64=11.2.0=h1234567_1
   - libstdcxx-ng=14.2.0=h4852527_1
@@ -141,7 +142,7 @@ dependencies:
   - numpy=2.0.2=py39heeff2f4_0
   - numpy-base=2.0.2=py39h8a23956_0
   - openblas=0.3.28=pthreads_h6ec200e_0
-  - openssl=1.1.1w=h7f8727e_0
+  - openssl=3.4.1=h7b32b05_0
   - overrides=7.4.0=py39h06a4308_0
   - pandas=2.2.3=py39h6a678d5_0
   - pandoc=2.12=h06a4308_3
@@ -164,7 +165,7 @@ dependencies:
   - pure_eval=0.2.2=pyhd3eb1b0_0
   - pycparser=2.21=pyhd3eb1b0_0
   - pygments=2.15.1=py39h06a4308_1
-  - python=3.9.16=h7a1cb2a_2
+  - python=3.9.7=hf930737_3_cpython
   - python-dateutil=2.9.0post0=py39h06a4308_2
   - python-fastjsonschema=2.20.0=py39h06a4308_0
   - python-json-logger=3.2.1=py39h06a4308_0
@@ -174,6 +175,7 @@ dependencies:
   - pyyaml=6.0.2=py39h5eee18b_0
   - pyzmq=24.0.1=py39h5eee18b_0
   - qt=5.6.3=h8bf5577_3
+  - r-argparse=2.2.3=r42hc72bb7e_0
   - r-askpass=1.1=r42h76d94ec_0
   - r-assertthat=0.2.1=r42h6115d3f_0
   - r-backports=1.4.1=r42h76d94ec_0
@@ -215,6 +217,7 @@ dependencies:
   - r-fansi=1.0.3=r42h76d94ec_0
   - r-farver=2.1.0=r42h884c59f_0
   - r-fastmap=1.1.1=r42h884c59f_0
+  - r-findpython=1.0.8=r42hc72bb7e_1
   - r-fontawesome=0.5.2=r42h6115d3f_0
   - r-forcats=0.5.1=r42h6115d3f_0
   - r-foreach=1.5.2=r42h6115d3f_0
