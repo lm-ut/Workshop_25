@@ -1,6 +1,8 @@
+
+## Overview
 Files, including scripts and Jupyter notebooks, to follow the ECHO Workshop, held in Tartu, Estonia, Feb 2025.
 
-Acknowledgment & Usage
+### Acknowledgment & Usage
 
 This repository contains scripts and tutorials developed through the collective efforts of several contributors. It is available to both workshop attendees and the public.
 
