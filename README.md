@@ -8,4 +8,4 @@ This repository contains scripts and tutorials developed through the collective 
 
 Please be considerate when using these scripts, as they required significant time and effort from multiple people. While they are publicly accessible, we kindly ask that you either request permission before using them or, at the very least, acknowledge their usefulness by dropping a message at: ludovica [dot] molinaro [at] kuleuven [dot] be
 
-Thank you for your consideration!
+Thank you 
